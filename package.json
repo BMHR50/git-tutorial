@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BMHR50/git-tutorial/issues"
   },
-  "homepage": "https://github.com/BMHR50/git-tutorial#readme"
+  "homepage": "https://github.com/BMHR50/git-tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
